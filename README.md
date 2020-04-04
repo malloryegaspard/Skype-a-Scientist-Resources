@@ -4,7 +4,7 @@ The worksheets and resources in this repository were created by Mallory E. Gaspa
 
 ## Topics:
 
-My worksheets are physics and mathematics based, and they cover a wide range of topics. The topics covered in these worksheets are chosen after disucssion with my teacher-host in planning their session. I try to relate each of my sessions back to what the students are learning in the classroom. Most of my sessions have been inspired by / based upon topics related to research that I have done, while others have covered general interest topics requested by the students themselves. Here is a general overview of topics that have been covered in my sessions. 
+My worksheets are physics and mathematics based, and they cover a wide range of topics. The topics covered in these worksheets are chosen after disucssion with my teacher-host in planning their session. I try to relate each of my sessions back to what the students are learning in the classroom. Most of my sessions have been inspired by / based upon topics related to scientific research that I have done, while other sessions have covered general interest topics requested by the students themselves. Here is a general overview of topics that have been covered in my sessions. 
 
 ### Covered Topics:
 - Mathematical Modeling
